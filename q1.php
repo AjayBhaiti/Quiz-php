@@ -4,7 +4,7 @@
 	<title>Q1</title>
 </head>
 <body>
-	<p>What is the Full form of php?</p>
+	<h1 class="larger">What is the Full form of php?</h1>
 	<form action="connection.php" method="POST">
 		<input type="radio" name="q" value=1> Private Hypertext Preprocessor <br>
 		<input type="radio" name="q" value=2> Personal Home Page <br>
