@@ -4,7 +4,7 @@
 	<title>Q4</title>
 </head>
 <body>
-	<p>Which of the following is name of configuration file of php in apache virtual server?</p>
+	<h1 class="larger">Which of the following is name of configuration file of php in apache virtual server?</h1>
 	<form action="connection.php" method="POST">
 		<input type="radio" name="q" value=1> php.conf <br>
 		<input type="radio" name="q" value=2> php.ini <br>
