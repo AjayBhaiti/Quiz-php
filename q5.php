@@ -4,7 +4,7 @@
 	<title>Q5</title>
 </head>
 <body>
-	<p>What is the Full form of XAMPP</p>
+	<h1 class="larger">What is the Full form of XAMPP</h1>
 	<form action="connection.php" method="POST">
 		<input type="radio" name="q" value=1> Cross-platform, Apache, Mysql, PHP and Perl <br>
 		<input type="radio" name="q" value=2> Xpress Server, Apacher, MongoDB, PHP, Perl <br>
