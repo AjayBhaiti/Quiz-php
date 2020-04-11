@@ -4,7 +4,7 @@
 	<title>Q3</title>
 </head>
 <body>
-	<p>Which of the following software is not use for setting up virtual server?</p>
+	<h1 class="larger">Which of the following software is not use for setting up virtual server?</h1>
 	<form action="connection.php" method="POST">
 		<input type="radio" name="q" value=1> SUBLIME <br>
 		<input type="radio" name="q" value=2> XAMPP <br>
